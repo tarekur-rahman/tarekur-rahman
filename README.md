@@ -16,7 +16,6 @@ I'm a WordPress & Frontend Developer passionate about building responsive, fast,
   
 
 ### WordPress
-- WordPress
 - Elementor
 - Divi
 - Breakdance

@@ -2,27 +2,47 @@
 
 ### WordPress & Frontend Developer
 
-I'm a WordPress & Frontend Developer focused on building responsive, fast, and user-friendly websites.
+I'm a WordPress & Frontend Developer passionate about building responsive, fast, and user-friendly websites.
 
-##  What I Work With
+##  Skills & Technologies
 
-- WordPress & Elementor
-- WooCommerce
-- HTML5 & CSS3
+### Frontend
+- HTML5
+- CSS3
 - Tailwind CSS
-- JavaScript 
+- JavaScript
 - React.js
 - Next.js
+  
+
+### WordPress
+- WordPress
+- Elementor
+- Divi
+- Breakdance
+- Crocoblock
+- WooCommerce
+- ACF
+- Custom WordPress Development
+
+### Other Skills
 - Responsive Web Design
 - Website Speed Optimization
-- SEO-friendly Websites
+- SEO-friendly Development
+- Website Maintenance & Troubleshooting
 
+##  What I Do
 
+-  Build responsive WordPress websites
+-  Develop WooCommerce stores
+-  Help WooCommerce stores improve their online growth and performance
+-  Optimize website performance
+-  Build frontend projects with React.js & Next.js
 
-##  My Goal
+##  My Goals
 
-Building clean, scalable, and high-quality web experiences.
+Continuously improving my development skills and building clean, scalable, and high-quality web experiences.
 
-##  Let's Connect
+##  Connect With Me
 
 - GitHub: [@tarekur-rahman](https://github.com/tarekur-rahman)
